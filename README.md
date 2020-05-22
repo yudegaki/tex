@@ -1,1 +1,1 @@
-#tex config
+# tex config
